@@ -1,0 +1,4 @@
+Non sempre si capisce un esercizio alla prima lettura, ma prestando
+attenzione al testo e all’ esempio non dovrebbe essere impossibile
+scrivere codice funzionante nonostante i dubbi iniziali. Se ancora non
+si capisce, allora basta chiedere all’ esercitatore di turno.
