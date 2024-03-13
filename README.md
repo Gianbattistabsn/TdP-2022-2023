@@ -1,7 +1,7 @@
 # TdP-2022-2023
 Laboratori relativi all'insegnamento di Tecniche di Programmazione 2022/2023
 
-Non tutti gli esercizi sono presenti (Ne mancheranno giusto un paio perchè non riesco a recupearli).
+Non tutti gli esercizi sono presenti (Ne mancheranno giusto un paio perchè non riesco a recuperarli).
 
 
 ! DISCLAIMER !
